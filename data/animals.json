@@ -117,6 +117,42 @@
         "hungry"
       ],
       "id": "11"
+    },
+    {
+      "name": "anim",
+      "species": "spec",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "loving"
+      ],
+      "id": "12"
+    },
+    {
+      "name": "cheetah",
+      "species": "mammal",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "anxious"
+      ],
+      "id": "13"
+    },
+    {
+      "name": "jaguar",
+      "species": "mammal",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "loving"
+      ],
+      "id": "14"
+    },
+    {
+      "name": "polar bear",
+      "species": "mammal",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "hungry"
+      ],
+      "id": "15"
     }
   ]
 }
